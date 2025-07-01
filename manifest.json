@@ -1,0 +1,13 @@
+{
+  "name": "OxygenOS WEB",
+  "short_name": "OxygenWEB",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "originos_data/icon_animation.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
