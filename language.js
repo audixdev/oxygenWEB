@@ -73,7 +73,7 @@ function en_language() {
   document.getElementById("btn-blue").textContent = "Blue";
 
   document.getElementById("size_icon_title").textContent = "Icon Size:";
-  document.getElementById("dock_bar_title").textContent = "Dock Bar";
+  document.getElementById("dock_bar_title").textContent = "Dock Bar (KEEP ON)";
   document.getElementById("dark_mode_title").textContent = "Dark Mode";
   document.getElementById("icon_packs_title").textContent = "Icon Packs";
   //document.getElementById("icon_packs_small_title").textContent = "Coming Soon";

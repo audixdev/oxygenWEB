@@ -1620,7 +1620,7 @@ function handleBoxPass1() {
   showPopup_open_close(crea_pass);
   if (pass_password == "") {
     stage_crea_pass = 1;
-    document.getElementById("title_crea_pass").textContent = "Tạo mật mã mới";
+    document.getElementById("title_crea_pass").textContent = "Create new password";
   }
 }
 
@@ -1629,7 +1629,7 @@ function handleBack14() {
   input_crea_pass = "";
   newPass_crea_pass = "";
   document.getElementById("title_crea_pass").textContent =
-    pass_password === "" ? "Tạo mật mã mới" : "Nhập mật mã cũ";
+    pass_password === "" ? "Create new password" : "Enter old password";
   document.getElementById("error_crea_pass").textContent = "";
   updateDots_crea_pass();
   hidePopup_open_close(crea_pass);
