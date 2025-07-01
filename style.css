@@ -839,7 +839,7 @@ body::-webkit-scrollbar-thumb:hover {
   position: absolute;
   display: fixed;
   border-radius: 20px;
-  background: url("originos_data/OriginOS_setting.jpg") no-repeat center center
+  background: url("originos_data/OxygenOS-setting.png") no-repeat center center
     fixed;
   background-size: 105%;
   width: 90%;

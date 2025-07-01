@@ -7,7 +7,7 @@ setTimeout(() => {
     finger_print.play();
 
     const el = document.getElementById("lolhaha");
-    if (!el || el.textContent.trim() !== "tiktok: @sungsamtech - @._naq.") {
+    if (!el || el.textContent.trim() !== "---") {
       localStorage.clear();
       sessionStorage.clear();
       location.reload();
@@ -15,7 +15,7 @@ setTimeout(() => {
 
     setInterval(() => {
       const el = document.getElementById("lolhaha");
-      if (!el || el.textContent.trim() !== "tiktok: @sungsamtech - @._naq.") {
+      if (!el || el.textContent.trim() !== "---") {
         localStorage.clear();
         sessionStorage.clear();
         location.reload();
